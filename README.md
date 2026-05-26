@@ -119,9 +119,9 @@ Top cuisines by restaurant count:
 
 Aspiring Data Analyst | Power BI Developer | Software Engineer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Prathu0313
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/prathmesh-khapekar-9a4642251
 
 ---
 
